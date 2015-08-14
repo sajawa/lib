@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/access
+END
+layer.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/access/layer.php
+END
+mongo.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/access/mongo.php
+END
+abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/access/abstract.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/access/mysql.php
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples
+END
+TransactionDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/TransactionDetails.php
+END
+SetExpressCheckout.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/SetExpressCheckout.php
+END
+DoDirectPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoDirectPayment.php
+END
+DoAuthorizationReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoAuthorizationReceipt.php
+END
+DoExpressCheckoutPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoExpressCheckoutPayment.php
+END
+DoVoidReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoVoidReceipt.php
+END
+GetBalanceReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/GetBalanceReceipt.php
+END
+DoDirectPaymentReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoDirectPaymentReceipt.php
+END
+GetTransactionDetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/GetTransactionDetails.html
+END
+ChangeLog-nvp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/ChangeLog-nvp.txt
+END
+sdk.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/sdk.css
+END
+DoVoid.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoVoid.php
+END
+DoReauthorizationReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoReauthorizationReceipt.php
+END
+DoReauthorization.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoReauthorization.html
+END
+MassPayReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/MassPayReceipt.php
+END
+RefundTransaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/RefundTransaction.php
+END
+MassPay.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/MassPay.html
+END
+TransactionSearchResults.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/TransactionSearchResults.php
+END
+ReviewOrder.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/ReviewOrder.php
+END
+RefundReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/RefundReceipt.php
+END
+DoCaptureReceipt.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoCaptureReceipt.php
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/README.html
+END
+TransactionSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/TransactionSearch.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/constants.php
+END
+APIError.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/APIError.php
+END
+CallerService.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/CallerService.php
+END
+DoAuthorization.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoAuthorization.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/index.html
+END
+GetExpressCheckoutDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/GetExpressCheckoutDetails.php
+END
+GetBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/GetBalance.php
+END
+DoCapture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/DoCapture.php
+END
+ShowAllResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/saja/!svn/ver/25/source/php/lib/paypal/php_nvp_samples/ShowAllResponse.php
+END

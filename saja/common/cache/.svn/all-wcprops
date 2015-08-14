@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/cache
+END
+layer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/cache/layer.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/cache/file.php
+END
+memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/cache/memcache.php
+END
+abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/cache/abstract.php
+END

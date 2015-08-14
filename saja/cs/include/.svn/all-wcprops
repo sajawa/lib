@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/saja/!svn/ver/25/source/php/lib/saja/cs/include
+END
+dev-config.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saja/!svn/ver/25/source/php/lib/saja/cs/include/dev-config.ini.php
+END
+test-config.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/saja/!svn/ver/25/source/php/lib/saja/cs/include/test-config.ini.php
+END
+config.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/saja/!svn/ver/25/source/php/lib/saja/cs/include/config.ini.php
+END

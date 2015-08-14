@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/minify
+END
+JsMin.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/minify/JsMin.php
+END
+class.JavaScriptPacker.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/minify/class.JavaScriptPacker.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/minify/HTML.php
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/saja/!svn/ver/25/source/php/lib/saja/common/minify/CSS.php
+END
